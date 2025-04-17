@@ -7,6 +7,7 @@ This project demonstrates how to stream real-time audio responses using Groq's a
 1. **Install Dependencies**
 
 ```bash
+   pip install coqui-tts
    pip install python-dotenv
    pip install groq
    pip install "fastrtc[vad, stt, tts]"
